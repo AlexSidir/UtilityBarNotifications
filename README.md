@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/16103038/53172960-ea3b0f00-35e6-11e9-9f37-b80c58603eac.png)
-
 
 To be able to use the following feature, My Domain needs to be turned on. If My Domain is not turned on, the lightning components will not be available for use.
+
+![image](https://user-images.githubusercontent.com/16103038/53172960-ea3b0f00-35e6-11e9-9f37-b80c58603eac.png)
 
 
 First define a Platform Event. This can be done by going to Setup -> Platform Events -> click on “New Platform Event”.
